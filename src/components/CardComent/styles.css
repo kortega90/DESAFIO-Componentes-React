@@ -1,0 +1,17 @@
+.ds-coments p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text-comments);
+
+}
+
+.ds-coments {
+    background-color: #fff;
+    width: 100%;
+    padding: 25px 20px;
+    border: 1px solid #3C9AF0;
+    border-radius: 12px;
+    text-align:start;
+}

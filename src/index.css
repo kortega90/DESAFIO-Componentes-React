@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+:root {
+  --bg-header:#3C9AF0;
+  --bg-footer:#3C9AF0;
+  --bg-coments:#C8C8C8;
+  --bg-catalog:#1E1E1E;
+
+  --text-white:#FFFFFF;
+  --text-catalog:#5E5E5E;
+  --text-comments:#3C9AF0;
+  
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+}
+
+.ds-ct-container {
+  width: 100%;
+  max-width: 960px;
+}
